@@ -1,4 +1,3 @@
-l
 # NeoPixel_Simulator
 
 NeoPixel_Simulator is an Arduino library designed to simulate the
@@ -12,15 +11,15 @@ Written by Bryan Craker of Alorium Technology.
 info@aloriumtech.com
 
 The 12 x 12 array was created my Max Maxfield.
-https://www.CliveMaxfield.com/coolbeans
-https://www.youtube.com/channel/UCQVqp_L4hKqF1uZ3tNo5MDw
+[Max's Cool Beans Blog](https://www.CliveMaxfield.com/coolbeans)
+[Max's Cool Beans Blog YouTube Channel](https://www.youtube.com/channel/UCQVqp_L4hKqF1uZ3tNo5MDw)
 
 -------------------------------------------------------------------------
 
 NeoPixel_Simulator is based on the Adafruit_NeoPixel library from Adafruit
 Industries which can be found here:
 
-https://github.com/adafruit/Adafruit_NeoPixel
+[https://github.com/adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
 
 -------------------------------------------------------------------------
 
