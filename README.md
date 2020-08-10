@@ -28,6 +28,6 @@ redefines Adafruit_NeoPixel:
 #else
   #include <Adafruit_NeoPixel.h>      
 #endif
-</pre></code>
+</code></pre>
 
 -------------------------------------------------------------------------
