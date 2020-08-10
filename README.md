@@ -13,7 +13,7 @@ https://github.com/adafruit/Adafruit_NeoPixel
 
 -------------------------------------------------------------------------
 
-NeoPixel_Simulator Usage:
+## NeoPixel_Simulator Usage:
 
 NeoPixel_Simulator can be used by adding a define for the simulator and 
 then adding an ifdef structure that  imports NeoPixel_Simulator and
