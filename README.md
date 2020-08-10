@@ -19,18 +19,15 @@ NeoPixel_Simulator can be used by adding a define for the simulator and
 then adding an ifdef structure that  imports NeoPixel_Simulator and
 redefines Adafruit_NeoPixel:
 
-\#define SIMULATE_NEOS
+<pre><code>
+#define SIMULATE_NEOS
 
-\#ifdef SIMULATE_NEOS
-
- 
-\#include <NeoPixel_Simulator.h>      
-\#define Adafruit_NeoPixel NeoPixel_Simulator  
-
-\#else
-
-\#include <Adafruit_NeoPixel.h>      
-
-\#endif
+#ifdef SIMULATE_NEOS
+  #include <NeoPixel_Simulator.h>      
+  #define Adafruit_NeoPixel NeoPixel_Simulator  
+#else
+  #include <Adafruit_NeoPixel.h>      
+#endif
+</pre></code>
 
 -------------------------------------------------------------------------
