@@ -21,10 +21,10 @@ redefines Adafruit_NeoPixel:
 
 \#define SIMULATE_NEOS
 
-\#ifdef SIMULATE_NEO 
+\#ifdef SIMULATE_NEOS
 
  
- \#include <NeoPixel_Simulator.h>      
+\#include <NeoPixel_Simulator.h>      
 \#define Adafruit_NeoPixel NeoPixel_Simulator  
 
 \#else
