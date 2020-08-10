@@ -33,10 +33,10 @@ redefines Adafruit_NeoPixel:
 #define SIMULATE_NEOS
 
 #ifdef SIMULATE_NEOS
-  #include <NeoPixel_Simulator.h>      
+  #include &lt;NeoPixel_Simulator.h&gt;      
   #define Adafruit_NeoPixel NeoPixel_Simulator  
 #else
-  #include <Adafruit_NeoPixel.h>      
+  #include &lt;Adafruit_NeoPixel.h&gt;
 #endif
 </code></pre>
 
