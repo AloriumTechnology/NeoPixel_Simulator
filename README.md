@@ -7,10 +7,10 @@ In the real-world array, there are 145 pixels numbered from 0 to 144, but
 pixel 0 is a sacrificial pixel used as a voltage level converter, so the
 pixels in the array are numbered from 1 to 144
 
-Written by Bryan Craker of Alorium Technology.
+Written by Bryan Craker of Alorium Technology.  
 info@aloriumtech.com
 
-The 12 x 12 array was created my Max Maxfield.
+The 12 x 12 array was created my Max Maxfield.  
 [Max's Cool Beans Blog](https://www.CliveMaxfield.com/coolbeans)
 [Max's Cool Beans Blog YouTube Channel](https://www.youtube.com/channel/UCQVqp_L4hKqF1uZ3tNo5MDw)
 
