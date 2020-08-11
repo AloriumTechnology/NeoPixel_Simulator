@@ -9,7 +9,7 @@
   Written by Bryan Craker of Alorium Technology.
   info@aloriumtech.com
 
-  The 12 x 12 array was created my Max Maxfield.
+  The 12 x 12 array was created by Max Maxfield.
   https://www.CliveMaxfield.com/coolbeans
   https://www.youtube.com/channel/UCQVqp_L4hKqF1uZ3tNo5MDw
 
