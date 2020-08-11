@@ -10,16 +10,26 @@ pixels in the array are numbered from 1 to 144
 Written by Bryan Craker of Alorium Technology.  
 info@aloriumtech.com
 
-The 12 x 12 array was created my Max Maxfield.  
+The 12 x 12 array was created by Max Maxfield.  
 [Max's Cool Beans Blog](https://www.CliveMaxfield.com/coolbeans)
 [Max's Cool Beans Blog YouTube Channel](https://www.youtube.com/channel/UCQVqp_L4hKqF1uZ3tNo5MDw)
 
 -------------------------------------------------------------------------
 
-NeoPixel_Simulator is based on the Adafruit_NeoPixel library from Adafruit
-Industries which can be found here:
+## Downloading Library
 
-[https://github.com/adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
+To download the NeoPixel_Simulator library for use with Arduino, follow
+the following steps:
+
+1. Click on the green "Code" button above
+2. Select "Download ZIP"  
+![Download Code](images/code_download.jpg)  
+3. Find and unzip the downloaded ZIP file  
+4. Change the unzipped directory name to remove the "-master"  
+![Change Name](images/del_master.gif) 
+5. Move the NeoPixel_Simulator directory to your Arduino "libraries" folder.  This will generally be in "~/Documents/Arduino/libraries"
+  
+Now you are ready to start using NeoPixel_Simulator!
 
 -------------------------------------------------------------------------
 
@@ -41,3 +51,13 @@ redefines Adafruit_NeoPixel:
 </code></pre>
 
 -------------------------------------------------------------------------
+
+NeoPixel_Simulator is based on the Adafruit_NeoPixel library from Adafruit
+Industries which can be found here:
+
+[https://github.com/adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
+
+Thanks Adafruit!  NeoPixels are awesome.
+
+-------------------------------------------------------------------------
+
