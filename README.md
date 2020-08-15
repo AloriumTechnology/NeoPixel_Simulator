@@ -10,7 +10,16 @@ pixels in the array are numbered from 1 to 144
 Written by Bryan Craker of Alorium Technology.  
 info@aloriumtech.com
 
-The 12 x 12 array was created by Max Maxfield.  
+The 12 x 12 array was created by Max Maxfield and is featured in  
+his recent Ping Pong Array Simulator blog series.  Read more here:  
+[12 x 12 Ping Pong Array Simulator (Part 2)](https://www.clivemaxfield.com/12-x-12-ping-pong-array-simulator-part-2/)
+
+Then head over to YouTube and watch Max's most recent video  
+demo of the 12 x 12 array and simulator:  
+[12 x 12 NeoPixel Ping Pong Ball Array (Using the Simulator)](https://youtu.be/sbI0RxeLD40)
+
+And if you are still hungry for even cooler beans than that, you can  
+get your full at Max's Cool Beans Blog and YouTube channel.  
 [Max's Cool Beans Blog](https://www.CliveMaxfield.com/coolbeans)  
 [Max's Cool Beans Blog YouTube Channel](https://www.youtube.com/channel/UCQVqp_L4hKqF1uZ3tNo5MDw)
 
